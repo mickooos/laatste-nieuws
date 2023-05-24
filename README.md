@@ -1,5 +1,5 @@
 # Laatste Nieuws (Berita Terkini)
-Aplikasi Portal Berita Berbasis Flutter menggunakan NewsAPI Untuk Mengambil berita utama dari API. 
+Aplikasi Portal Berita Berbasis Flutter menggunakan API dari newsapi.org
 
 ## App Preview
 ![image](https://github.com/mickooos/laatste-nieuws/assets/93990340/c3eb2cbc-e275-45a9-81cf-02fc9e60b379)
